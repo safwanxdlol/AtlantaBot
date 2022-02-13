@@ -1,0 +1,6 @@
+{
+  "name": "safwanxd/fart",
+  "timeout": 10000,
+  "connector": false,
+  "events": {}
+}
